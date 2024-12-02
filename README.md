@@ -32,8 +32,8 @@ pip install opencv-python numpy dlib face-recognition
 
 ```
 ## BIOS and Laptop Configuration
-- 1. Enable Integrated Camera in BIOS
-- 2.Restart your laptop and enter the BIOS/UEFI settings (press F2, DEL, or ESC during boot).
-- 3.Navigate to Integrated Peripherals or Advanced.
-- 4.Ensure the Integrated Camera option is Enabled.
-- 5.Save changes and exit.
+- Enable Integrated Camera in BIOS
+- Restart your laptop and enter the BIOS/UEFI settings (press F2, DEL, or ESC during boot).
+- Navigate to Integrated Peripherals or Advanced.
+- Ensure the Integrated Camera option is Enabled.
+- Save changes and exit.
